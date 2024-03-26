@@ -1,3 +1,5 @@
+//main module integrates the even & odd instruction execution pipes of ALU. Integrates register file, and implements the forwarding unit.
+
 module part1(clk, reset, PCin, op_even, RAaddr_even, RBaddr_even, RCaddr_even, Imm_even, RTaddr_even, op_odd, RAaddr_odd, RBaddr_odd, RCaddr_odd, Imm_odd, RTaddr_odd, PCout, branchTaken);
 	
 
