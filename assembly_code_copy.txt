@@ -1,0 +1,52 @@
+ai $70, $2 ,-1
+onop
+a $1, $2, $3
+shlqbi $30, $31, $32
+a $4, $1, $6
+shlqbi $33, $4, $35
+a $7, $8, $9
+shlqbi $36, $37, $38
+a $20, $4, $40
+brasl $50, 10
+shlqbi $10, $11, $12
+shlqbi $40, $41, $42
+enop
+enop
+enop
+onop
+enop
+onop
+enop
+onop
+enop
+onop
+enop
+onop
+enop
+onop
+enop
+onop
+enop
+onop
+enop
+onop
+enop
+onop
+enop
+onop
+enop
+onop
+enop
+onop
+enop
+onop
+enop
+onop
+enop
+onop
+enop
+stop
+
+
+
+
